@@ -1,0 +1,27 @@
+OSI & TCP/IP Models (Very Short)
+
+OSI Model (7 Layers):
+
+Application: HTTP (web browsing)
+
+Presentation: SSL/TLS (encryption)
+
+Session: User login session
+
+Transport: TCP (reliable data)
+
+Network: IP (routing)
+
+Data Link: Ethernet, MAC address
+
+Physical: Cable, Wi-Fi
+
+TCP/IP Model (4 Layers):
+
+Application: HTTP, FTP
+
+Transport: TCP, UDP
+
+Internet: IP
+
+Network Access: Ethernet, Wi-Fi
