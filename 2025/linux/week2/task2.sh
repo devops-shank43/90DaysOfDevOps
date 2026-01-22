@@ -1,0 +1,1 @@
+Create /devops_workspace and a file project_notes.txt.
